@@ -38,3 +38,14 @@
 ![Screenshot image](task_day2/education-block.png)
 
 </details>
+
+
+
+## Day 3
+
+<details>
+<summary>CSS styles and fonts connection</summary>
+
+![Screenshot image](task_day3/css-styles-and-fonts-connection.png)
+
+</details>
