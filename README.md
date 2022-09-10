@@ -49,3 +49,28 @@
 ![Screenshot image](task_day3/css-styles-and-fonts-connection.png)
 
 </details>
+
+
+
+## Day 4
+
+<details>
+<summary>Sidebar</summary>
+
+![Screenshot image](task_day4/sidebar.png)
+
+</details>
+
+<details>
+<summary>Soft Skills HTML source code</summary>
+
+![Screenshot image](task_day4/soft-skills-html-source-code.png)
+
+</details>
+
+<details>
+<summary>Soft Skills CSS source code</summary>
+
+![Screenshot image](task_day4/soft-skills-css-source-code.png)
+
+</details>
