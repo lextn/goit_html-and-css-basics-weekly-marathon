@@ -74,3 +74,28 @@
 ![Screenshot image](task_day4/soft-skills-css-source-code.png)
 
 </details>
+
+
+
+## Day 5
+
+<details>
+<summary>Working page</summary>
+
+![Screenshot image](task_day5/working-page.png)
+
+</details>
+
+<details>
+<summary>Third Company and Education HTML source code</summary>
+
+![Screenshot image](task_day5/third-company-and-education-html-source-code.png)
+
+</details>
+
+<details>
+<summary>Third Company and Education CSS source code</summary>
+
+![Screenshot image](task_day5/third-company-and-education-css-source-code.png)
+
+</details>
