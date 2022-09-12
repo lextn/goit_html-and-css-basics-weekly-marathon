@@ -1,3 +1,5 @@
+![Screenshot image](goit-english-html-certificate.png)
+
 ## Day 1
 
 <details>
@@ -97,5 +99,16 @@
 <summary>Third Company and Education CSS source code</summary>
 
 ![Screenshot image](task_day5/third-company-and-education-css-source-code.png)
+
+</details>
+
+
+
+## Day 6
+
+<details>
+<summary>Site hosting</summary>
+
+![Screenshot image](task_day6/site-hosting.png)
 
 </details>
